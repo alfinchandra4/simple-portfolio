@@ -15,7 +15,7 @@
         <ul>
           <li>Melakukan coding sistem menggunakan framework PHP Laravel</li>
           <li>Merancang tiga fitur formulir kuisioner untuk 3 tipe peran</li>
-          <li>Mendesain tampilan antarmuka: halaman beranda, profil, informasi lowogan kerja dan magang, pelatihan, informasi kontak, administrator dengan Framework CSS Bootstrap</li>
+          <li>Mendesain tampilan antarmuka: halaman beranda, profil, informasi lowogan kerja dan magang, pelatihan, informasi kontak, administrator menggunakan Bootstrap</li>
           <li>Merancang fitur cetak tiket, sertifikat, dan registrasi acara</li>
           <li>Mendesain skema basisdata dengan SQL</li>
           <li>Menggunakan github sebagai <i>version control</i></li>

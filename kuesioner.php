@@ -15,7 +15,7 @@
         <ul>
           <li>Melakukan coding sistem menggunakan framework PHP Laravel</li>
           <li>Merancang tiga fitur formulir kuisioner untuk 3 tipe peran (mahasiswa, dosen, dan alumni)</li>
-          <li>Mendesain tampilan antarmuka: Home, Profil Menggunakan Framework CSS Bootstrap</li>
+          <li>Mendesain tampilan antarmuka: Home, Profil Menggunakan Bootstrap</li>
           <li>Membuat visualisasi berbagai macam grafik</li>
           <li>Mendesain skema basisdata dengan SQL</li>
           <li>Menggunakan github sebagai <i>version control</i></li>

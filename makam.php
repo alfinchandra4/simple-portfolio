@@ -14,7 +14,7 @@
       <div class="card-body">
         <ul>
           <li>Melakukan coding sistem menggunakan framework PHP Laravel</li>
-          <li>Mendesain tampilan antarmuka website: halaman reservasi makam, profil, dan halaman utama website menggunakan Framework CSS Bootstrap</li>
+          <li>Mendesain tampilan antarmuka website: halaman reservasi makam, profil, dan halaman utama website menggunakan Bootstrap</li>
           <li>Mendesain skema basisdata dengan SQL</li>
           <li>Menggunakan github sebagai <i>version control</i></li>
         </ul>
