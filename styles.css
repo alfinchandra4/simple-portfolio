@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: black;
+}
+
+.projects {
+  width: 100%;
+  border: 3px solid #ffc107;
+  margin-bottom: 10px;
+  padding: 0px 0px 0px 7px;
+  border-radius: 3px;
+}
+
+.projects {
+  color: #ffc107;
+}
+
+.projects:hover {
+  border: 3px solid white;
+  color: white;
+}
+
+.fix {
+  position: fixed;
+  bottom: 10px;
+  padding: 10px;
+}
+
+/* End Index */
+
+.title {
+  width: 100%;
+  background-color: #ffc107;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.images > img {
+  border-radius: 5px;
+  margin-bottom: 7px;
+}
+
+.images {
+  margin-bottom: 10px;
+}
